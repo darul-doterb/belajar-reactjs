@@ -395,6 +395,7 @@ class Tables extends React.Component {
                         margin: "auto",
                       }}
                       src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"
+                      alt=""
                     />
                   ) : (
                     <Table responsive>
