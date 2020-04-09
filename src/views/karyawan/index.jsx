@@ -259,7 +259,7 @@ class Tables extends React.Component {
                               defaultValue={this.state.fields["name"]}
                               placeholder="Masukan Nama Karyawan"
                               onFocus={() => {
-                                this.handleFocus("salary");
+                                this.handleFocus("name");
                               }}
                               style={
                                 this.state.errors["name"]
